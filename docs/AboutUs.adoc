@@ -50,7 +50,7 @@ Responsibilities: Code quality
 image::yogtew.png[width="150", align="left"]
 {empty}[http://github.com/yogtew[github]]
 
-Role: Developer
+Role: Developer +
 Responsibilities: Documentation
 
 '''
