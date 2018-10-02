@@ -37,6 +37,7 @@ import seedu.address.ui.UiManager;
 
 /**
  * The main entry point to the application.
+ * Added milestone tag v1.1
  */
 public class MainApp extends Application {
 
