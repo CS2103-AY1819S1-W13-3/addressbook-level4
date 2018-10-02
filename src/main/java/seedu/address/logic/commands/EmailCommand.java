@@ -1,15 +1,14 @@
 package seedu.address.logic.commands;
 
-
-import static seedu.address.logic.parser.CliSyntax.PREFIX_NAME;
 import static java.util.Objects.requireNonNull;
+import static seedu.address.logic.parser.CliSyntax.PREFIX_NAME;
 
 import seedu.address.logic.CommandHistory;
 import seedu.address.logic.commands.exceptions.CommandException;
 import seedu.address.model.Model;
-import seedu.address.model.person.NameContainsKeywordsPredicate;
-import seedu.address.model.person.Person;
 import seedu.address.commons.core.Messages;
+import seedu.address.model.person.NameContainsKeywordsPredicate;
+
 
 /**
  * Gets email address of person
