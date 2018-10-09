@@ -100,6 +100,7 @@ public class ModelManager extends ComponentManager implements Model {
         filteredPersons.setPredicate(predicate);
     }
 
+
     //=========== Undo/Redo =================================================================================
 
     @Override

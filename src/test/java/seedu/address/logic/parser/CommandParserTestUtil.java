@@ -35,4 +35,5 @@ public class CommandParserTestUtil {
             assertEquals(expectedMessage, pe.getMessage());
         }
     }
+
 }
